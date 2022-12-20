@@ -1,2 +1,1 @@
-# HCMV_resources_public
-Useful resources for CMV analysis
+# cmv_hmmcluster_profiles
